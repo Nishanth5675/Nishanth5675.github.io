@@ -1,2 +1,2 @@
-# Nishanth5675.github.io
+# My Blog 
 My Learnings while living 
