@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Nishanth Kumar V"
+  site-url: https://nishanth5675.github.io/
+
+  open-graph: true
+  twitter-card: true
+  page-footer:
+    border: true
+    left: |
+      Currently associated with [_Farm Hill Learning_](https://farmhill-learning.org)
+    right: 
+      - icon: envelope-at
+        href: mailto:nishanthkumar5675@gmail.com
+      - icon: github
+        href: https://github.com/nishanth5675
+      
+  
+  navbar:
+      
+      href: /index.qmd
+        
+  
+
+format:
+  html: 
+    theme: 
+      - cosmo
+    css: styles.css
+    toc: true
+    
+
+

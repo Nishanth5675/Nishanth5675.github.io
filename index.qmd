@@ -1,0 +1,16 @@
+---
+title: "Nishanth Kumar"
+page-layout: full
+about:
+  template: trestles
+  image: nishanth.jpg
+  links:
+    - icon: envelope-at
+      text: email
+      href: mailto:nishanthkumar5675@gmail.com
+    - icon: github
+      text: github
+      href: https://github.com/nishanth5675
+    
+---
+I am a teacher learner at Farm Hill Learning. I am also purusing my masters at TISS now. 
