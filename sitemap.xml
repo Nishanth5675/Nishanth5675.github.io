@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://nishanth5675.github.io/blog/tiss-learning/index.html</loc>
+    <lastmod>2024-12-23T05:42:12.739Z</lastmod>
+  </url>
+  <url>
     <loc>https://nishanth5675.github.io/index.html</loc>
-    <lastmod>2024-12-23T05:14:07.168Z</lastmod>
+    <lastmod>2024-12-23T05:42:12.740Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nishanth5675.github.io/blog/index.html</loc>
+    <lastmod>2024-12-23T05:42:12.739Z</lastmod>
   </url>
 </urlset>
