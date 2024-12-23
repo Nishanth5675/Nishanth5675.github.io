@@ -1,0 +1,11 @@
+---
+title: You know but have you seen…
+subtitle: me and myself
+date: 2024-12-24
+image: nishanth.jpg
+categories:
+    - general
+---
+# about myself
+
+![](nishanth.jpg)

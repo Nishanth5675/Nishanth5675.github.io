@@ -21,6 +21,9 @@ website:
   navbar:
       
       href: /index.qmd
+      left:
+       - text: Blog
+         href: blog/index.qmd
         
   
 
